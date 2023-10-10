@@ -41,11 +41,10 @@ This tutorial outlines the post-install configuration of the open-source help de
   Supreme Admin:
 </p>
 <p>
-  <img src="https://imgur.com/zi3k8lf.png" height="75%" width="100%" alt="Definitions"/>
-  <img src="https://imgur.com/o1ahmyq.png" height="75%" width="100%" alt="Permissions"/>
-  <img src="https://imgur.com/p2BBu37.png" height="75%" width="100%" alt="More Permissions"/>
-  <img src="https://imgur.com/edbpJp7.png" height="75%" width="100%" alt="Even More Permissions"/>
-  <img src="https://imgur.com/RU2nxoz.png" height="75%" width="100%" alt="Sys Admin Success"/>
+  <img src="https://i.imgur.com/xovgvX5.png" height="75%" width="100%" alt="Definitions"/>
+  <img src="https://i.imgur.com/THvekln.png" height="75%" width="100%" alt="Permissions"/>
+  <img src="https://i.imgur.com/dv0xjWo.png" height="75%" width="100%" alt="More Permissions"/>
+  <img src="https://i.imgur.com/SLh8Erb.png" height="75%" width="100%" alt="Even More Permissions"/>
 </p>
 Admin Panel -> Agents -> Roles.
 
@@ -61,7 +60,7 @@ Supreme Admin:
   
 </p>
 <p>
-  <img src="https://imgur.com/jGrzfYF.png" height="75%" width="100%" alt="System Administrators"/>
+  <img src="https://i.imgur.com/e9q72U1.png" height="75%" width="100%" alt="System Administrators"/>
   
 </p>
 Admin Panel -> Agents -> Departments.
@@ -78,7 +77,7 @@ System Administrators:
   Level II Support:
 </p>
 <p>
-  <img src="https://imgur.com/yHtyBtZ.png" height="75%" width="100%" alt="Level II Support"/>
+  <img src="https://i.imgur.com/Odpjlxk.png" height="75%" width="100%" alt="Level II Support"/>
 </p>
 Admin Panel -> Agents -> Teams.
 <br />
@@ -89,7 +88,7 @@ Admin Panel -> Agents -> Teams.
  
 </p>
 <p>
-  <img src="https://imgur.com/pu09hWc.png" height="75%" width="100%" alt="ticket creations"/>
+  <img src="https://i.imgur.com/9l3FTdJ.png" height="75%" width="100%" alt="ticket creations"/>
 </p>
 Admin Panel -> Settings -> User Settings.
 
@@ -104,13 +103,13 @@ Make sure "Require registration and login to create tickets" is not selected:
 <p>
   Jane Doe:
 </p>
-  <img src="https://imgur.com/3ZDsnHu.png" height="75%" width="100%" alt="agent one access"/>
+  <img src="https://i.imgur.com/lfRSdiF.png" height="75%" width="100%" alt="agent one access"/>
 <p>
   John Doe:
 </p>
 <p>
-  <img src="https://imgur.com/tUInlqX.png" height="75%" width="100%" alt="agent two"/>
-  <img src="https://imgur.com/RI2u4AQ.png" height="75%" width="100%" alt="agent two access"/>
+  <img src="https://i.imgur.com/neI08nI.png" height="75%" width="100%" alt="agent two"/>
+  <img src="https://i.imgur.com/C5wghva.png" height="75%" width="100%" alt="agent two access"/>
 </p>
 <h3 align="center">Configure Users (customers)</h3>
 <br />
@@ -120,7 +119,7 @@ Make sure "Require registration and login to create tickets" is not selected:
 <p>
   Ken User:
 </p>
-  <img src="https://imgur.com/DAVD4dM.png" height="75%" width="100%" alt="user access"/>
+  <img src="https://i.imgur.com/LeHLEVA.png" height="75%" width="100%" alt="user access"/>
 <p>
   Repeat the same above for Karen User.
 </p>
