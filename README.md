@@ -41,9 +41,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   Supreme Admin:
 </p>
 <p>
-  <img src="https://i.imgur.com/xovgvX5.png" height="75%" width="100%" alt="Definitions"/>
-  <img src="https://i.imgur.com/THvekln.png" height="75%" width="100%" alt="Permissions"/>
-  <img src="https://i.imgur.com/dv0xjWo.png" height="75%" width="100%" alt="More Permissions"/>
+  <img src="https://i.imgur.com/jKxoVnG.png" height="75%" width="100%" alt="Definitions"/>
+  <img src="https://i.imgur.com/IC2QTop.png" height="75%" width="100%" alt="Permissions"/>
+  <img src="https://i.imgur.com/Ch29FEH.png" height="75%" width="100%" alt="More Permissions"/>
   <img src="https://i.imgur.com/SLh8Erb.png" height="75%" width="100%" alt="Even More Permissions"/>
 </p>
 Admin Panel -> Agents -> Roles.
@@ -88,7 +88,7 @@ Admin Panel -> Agents -> Teams.
  
 </p>
 <p>
-  <img src="https://i.imgur.com/9l3FTdJ.png" height="75%" width="100%" alt="ticket creations"/>
+  <img src="https://i.imgur.com/dP2dRuQ.png" height="75%" width="100%" alt="ticket creations"/>
 </p>
 Admin Panel -> Settings -> User Settings.
 
@@ -103,7 +103,7 @@ Make sure "Require registration and login to create tickets" is not selected:
 <p>
   Jane Doe:
 </p>
-  <img src="https://i.imgur.com/lfRSdiF.png" height="75%" width="100%" alt="agent one access"/>
+  <img src="https://i.imgur.com/wiEfZol.png" height="75%" width="100%" alt="agent one access"/>
 <p>
   John Doe:
 </p>
