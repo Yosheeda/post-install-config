@@ -41,10 +41,10 @@ This tutorial outlines the post-install configuration of the open-source help de
   Supreme Admin:
 </p>
 <p>
-  <img src="https://i.imgur.com/jKxoVnG.png" height="75%" width="100%" alt="Definitions"/>
-  <img src="https://i.imgur.com/IC2QTop.png" height="75%" width="100%" alt="Permissions"/>
-  <img src="https://i.imgur.com/Ch29FEH.png" height="75%" width="100%" alt="More Permissions"/>
-  <img src="https://i.imgur.com/SLh8Erb.png" height="75%" width="100%" alt="Even More Permissions"/>
+  <img src="https://github.com/Yosheeda/testpostinstall/blob/main/1.ConfigureRoles1.png?raw=true" height="75%" width="100%" alt="Definitions"/>
+  <img src="https://github.com/Yosheeda/testpostinstall/blob/main/1.ConfigureRoles2.png?raw=true" height="75%" width="100%" alt="Permissions"/>
+  <img src="https://github.com/Yosheeda/testpostinstall/blob/main/1.ConfigureRoles3.png?raw=true" height="75%" width="100%" alt="More Permissions"/>
+  <img src="https://github.com/Yosheeda/testpostinstall/blob/main/1.ConfigureRoles4.png?raw=true" height="75%" width="100%" alt="Even More Permissions"/>
 </p>
 Admin Panel -> Agents -> Roles.
 
@@ -60,7 +60,7 @@ Supreme Admin:
   
 </p>
 <p>
-  <img src="https://i.imgur.com/e9q72U1.png" height="75%" width="100%" alt="System Administrators"/>
+  <img src="https://github.com/Yosheeda/testpostinstall/blob/main/2.Configuredepartments.png?raw=true" height="75%" width="100%" alt="System Administrators"/>
   
 </p>
 Admin Panel -> Agents -> Departments.
@@ -77,7 +77,7 @@ System Administrators:
   Level II Support:
 </p>
 <p>
-  <img src="https://i.imgur.com/Odpjlxk.png" height="75%" width="100%" alt="Level II Support"/>
+  <img src="https://github.com/Yosheeda/testpostinstall/blob/main/3.Configureteams.png?raw=true" height="75%" width="100%" alt="Level II Support"/>
 </p>
 Admin Panel -> Agents -> Teams.
 <br />
@@ -88,7 +88,7 @@ Admin Panel -> Agents -> Teams.
  
 </p>
 <p>
-  <img src="https://i.imgur.com/dP2dRuQ.png" height="75%" width="100%" alt="ticket creations"/>
+  <img src="https://github.com/Yosheeda/testpostinstall/blob/main/4.Allowanyonetocreateticket.png?raw=true" height="75%" width="100%" alt="ticket creations"/>
 </p>
 Admin Panel -> Settings -> User Settings.
 
@@ -103,13 +103,13 @@ Make sure "Require registration and login to create tickets" is not selected:
 <p>
   Jane Doe:
 </p>
-  <img src="https://i.imgur.com/wiEfZol.png" height="75%" width="100%" alt="agent one access"/>
+  <img src="https://github.com/Yosheeda/testpostinstall/blob/main/5.confiureAgents1.png?raw=true" height="75%" width="100%" alt="agent one access"/>
 <p>
   John Doe:
 </p>
 <p>
-  <img src="https://i.imgur.com/neI08nI.png" height="75%" width="100%" alt="agent two"/>
-  <img src="https://i.imgur.com/C5wghva.png" height="75%" width="100%" alt="agent two access"/>
+  <img src="https://github.com/Yosheeda/testpostinstall/blob/main/5.confiureAgents2.png?raw=true" height="75%" width="100%" alt="agent two"/>
+  <img src="https://github.com/Yosheeda/testpostinstall/blob/main/5.confiureAgents3.png?raw=true" height="75%" width="100%" alt="agent two access"/>
 </p>
 <h3 align="center">Configure Users (customers)</h3>
 <br />
@@ -119,7 +119,7 @@ Make sure "Require registration and login to create tickets" is not selected:
 <p>
   Ken User:
 </p>
-  <img src="https://i.imgur.com/LeHLEVA.png" height="75%" width="100%" alt="user access"/>
+  <img src="https://github.com/Yosheeda/testpostinstall/blob/main/6.configureusers.png?raw=true" height="75%" width="100%" alt="user access"/>
 <p>
   Repeat the same above for Karen User.
 </p>
